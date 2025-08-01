@@ -19,16 +19,15 @@ Aplikasi **Perpustakaan Pintar** adalah program berbasis Python yang dirancang u
 ## 🧩 Struktur Menu
 
 ```text
-1. Tambah anggota
-2. Tampilkan daftar anggota
-3. Edit/hapus anggota
-4. Tambah buku
-5. Tampilkan daftar buku
-6. Edit/hapus buku
-7. Peminjaman buku
-8. Pengembalian buku
-9. Tampilkan data peminjaman
-10. Keluar
+   1. 👥 Data Anggota
+   2. 📝 Daftar Keanggotaan
+   3. ✏️ Hapus Data Anggota
+   4. 📖 Daftar Buku
+   5. ✏️ Kelola/ Edit Data Buku
+   6. 📦 Peminjaman Buku
+   7. 🔁Pengembalian Buku
+   8. 📦Data Transaksi Peminjaman
+   9. ❌Exit ''')
 ```
 
 
